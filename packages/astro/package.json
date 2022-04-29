@@ -130,7 +130,7 @@
     "strip-ansi": "^7.0.1",
     "supports-esm": "^1.0.0",
     "tsconfig-resolver": "^3.0.1",
-    "vite": "^2.9.5",
+    "vite": "^2.9.6",
     "yargs-parser": "^21.0.1",
     "zod": "^3.14.4"
   },
@@ -138,7 +138,7 @@
     "@babel/types": "^7.17.0",
     "@types/babel__core": "^7.1.19",
     "@types/babel__generator": "^7.6.4",
-    "@types/babel__traverse": "^7.17.0",
+    "@types/babel__traverse": "^7.17.1",
     "@types/chai": "^4.3.1",
     "@types/common-ancestor-path": "^1.0.0",
     "@types/connect": "^3.4.35",
@@ -160,7 +160,7 @@
     "chai": "^4.3.6",
     "cheerio": "^1.0.0-rc.10",
     "mocha": "^9.2.2",
-    "sass": "^1.50.1",
+    "sass": "^1.51.0",
     "srcset-parse": "^1.1.0"
   },
   "engines": {
